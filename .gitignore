@@ -48,6 +48,7 @@ dev.db-journal
 # raport practica si surse imagini neutilizate de aplicatie (root, nu fac parte din app)
 /Raport_Cebanu_Radu*.docx
 /Raport_Cebanu_Radu*.pdf
+~$*
 /*.png
 /Imagine chipiu casual premium.html
 /Imagine chipiu casual premium_files/
