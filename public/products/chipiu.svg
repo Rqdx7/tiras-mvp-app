@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#efe7dc"/>
+  <!-- Shadow -->
+  <ellipse cx="400" cy="470" rx="210" ry="14" fill="#2d2925" opacity="0.10"/>
+  <!-- Bill / brim -->
+  <path d="M210 378 Q220 410 280 418 L572 418 Q584 418 586 406 Q588 394 574 388 L568 378Z" fill="#2d2925"/>
+  <!-- Bill underside -->
+  <path d="M220 408 Q260 420 280 420 L572 420 Q584 420 586 408" stroke="#3d3530" stroke-width="3" fill="none"/>
+  <!-- Bill stitching edge -->
+  <path d="M228 412 Q266 422 284 422 L572 422 Q584 422 586 412" stroke="#4d4542" stroke-width="1.5" stroke-dasharray="5,4" fill="none"/>
+  <!-- Crown (main cap body) -->
+  <path d="M230 378 Q232 270 308 230 Q352 210 400 208 Q448 208 490 226 Q562 258 572 378Z" fill="#2d2925"/>
+  <!-- Crown panels - vertical seams -->
+  <path d="M400 208 Q404 290 406 378" stroke="#3d3530" stroke-width="2" fill="none"/>
+  <path d="M310 234 Q352 308 376 378" stroke="#3d3530" stroke-width="2" fill="none"/>
+  <path d="M494 230 Q454 308 424 378" stroke="#3d3530" stroke-width="2" fill="none"/>
+  <!-- Crown surface highlight -->
+  <path d="M340 220 Q400 208 460 226 Q412 212 400 212 Q368 212 340 222Z" fill="#3d3530" opacity="0.6"/>
+  <!-- Front logo area (fabric badge) -->
+  <rect x="360" y="270" width="80" height="56" rx="6" fill="#3d3530"/>
+  <path d="M376 298 L396 278 L416 298 L408 298 L396 286 L384 298Z" fill="#a7642c"/>
+  <!-- Sweatband hint (at brim edge) -->
+  <path d="M230 378 Q400 390 572 378" stroke="#4d4542" stroke-width="4" fill="none"/>
+  <!-- Button on top -->
+  <circle cx="400" cy="212" r="12" fill="#3d3530"/>
+  <circle cx="400" cy="212" r="6" fill="#4d4542"/>
+  <!-- Adjustable strap hint at back -->
+  <path d="M230 370 Q218 374 222 382 L240 378Z" fill="#3d3530"/>
+  <!-- Eyelets (ventilation holes) -->
+  <circle cx="268" cy="316" r="5" fill="#3d3530"/>
+  <circle cx="532" cy="316" r="5" fill="#3d3530"/>
+</svg>

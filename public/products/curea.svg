@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#efe7dc"/>
+  <!-- Belt shadow -->
+  <rect x="116" y="274" width="568" height="66" rx="12" fill="#2d2925" opacity="0.10"/>
+  <!-- Belt strap body -->
+  <rect x="118" y="262" width="566" height="64" rx="10" fill="#a7642c"/>
+  <!-- Belt surface sheen -->
+  <rect x="124" y="267" width="554" height="28" rx="6" fill="#b87234" opacity="0.6"/>
+  <!-- Belt end (tapered point) -->
+  <path d="M662 262 L684 292 L684 294 L662 326 L656 326 L656 262Z" fill="#8f5221"/>
+  <!-- Belt holes -->
+  <ellipse cx="596" cy="294" rx="7" ry="6" fill="#1a1612"/>
+  <ellipse cx="568" cy="294" rx="7" ry="6" fill="#1a1612"/>
+  <ellipse cx="540" cy="294" rx="7" ry="6" fill="#1a1612"/>
+  <ellipse cx="512" cy="294" rx="7" ry="6" fill="#1a1612"/>
+  <ellipse cx="484" cy="294" rx="7" ry="6" fill="#1a1612"/>
+  <!-- Buckle frame (silver-ish) -->
+  <rect x="108" y="252" width="72" height="84" rx="14" fill="#c8b89a"/>
+  <rect x="116" y="260" width="56" height="68" rx="10" fill="none" stroke="#2d2925" stroke-width="5"/>
+  <!-- Buckle center bar -->
+  <rect x="140" y="252" width="10" height="84" rx="5" fill="#2d2925"/>
+  <!-- Buckle prong -->
+  <path d="M142 280 L152 252 L162 252 L162 296 Q152 318 142 296Z" fill="#2d2925"/>
+  <!-- Stitching top edge -->
+  <line x1="180" y1="276" x2="658" y2="276" stroke="#8f5221" stroke-width="1.5" stroke-dasharray="8,6" opacity="0.7"/>
+  <!-- Stitching bottom edge -->
+  <line x1="180" y1="312" x2="658" y2="312" stroke="#8f5221" stroke-width="1.5" stroke-dasharray="8,6" opacity="0.7"/>
+</svg>

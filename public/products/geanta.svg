@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#efe7dc"/>
+  <!-- Shadow -->
+  <ellipse cx="400" cy="496" rx="200" ry="14" fill="#2d2925" opacity="0.12"/>
+  <!-- Handles shadow -->
+  <path d="M286 200 Q286 152 320 148 Q340 144 340 152 L340 200" stroke="#8f5221" stroke-width="18" fill="none" stroke-linecap="round" opacity="0.25"/>
+  <path d="M460 200 Q460 152 494 148 Q514 144 514 152 L514 200" stroke="#8f5221" stroke-width="18" fill="none" stroke-linecap="round" opacity="0.25"/>
+  <!-- Handles -->
+  <path d="M282 200 Q282 148 318 144 Q340 140 340 150 L340 200" stroke="#8f5221" stroke-width="14" fill="none" stroke-linecap="round"/>
+  <path d="M460 200 Q460 148 494 144 Q516 140 514 150 L514 200" stroke="#8f5221" stroke-width="14" fill="none" stroke-linecap="round"/>
+  <!-- Bag body shadow (depth) -->
+  <rect x="176" y="204" width="460" height="274" rx="20" fill="#8f5221"/>
+  <!-- Bag main body -->
+  <rect x="166" y="196" width="460" height="274" rx="18" fill="#a7642c"/>
+  <!-- Front flap area -->
+  <rect x="174" y="204" width="444" height="138" rx="12" fill="#9a5c26"/>
+  <!-- Flap top edge highlight -->
+  <rect x="174" y="204" width="444" height="40" rx="12" fill="#b07030" opacity="0.5"/>
+  <!-- Flap closure / lock hardware -->
+  <rect x="362" y="310" width="68" height="44" rx="8" fill="#c8b070"/>
+  <rect x="370" y="318" width="52" height="28" rx="6" fill="#a89050" stroke="#d4c080" stroke-width="1.5"/>
+  <circle cx="396" cy="332" r="10" fill="#c8b070"/>
+  <circle cx="396" cy="332" r="6" fill="#a89050"/>
+  <!-- Front pocket seam -->
+  <path d="M174 348 Q400 356 626 348" stroke="#8f5221" stroke-width="2" fill="none"/>
+  <!-- Piping/edge detail -->
+  <rect x="166" y="196" width="460" height="274" rx="18" fill="none" stroke="#8f5221" stroke-width="3"/>
+  <!-- Stitching detail -->
+  <rect x="178" y="208" width="436" height="250" rx="12" fill="none" stroke="#d8c2aa" stroke-width="1.5" stroke-dasharray="7,5"/>
+  <!-- Bottom feet (studs) -->
+  <circle cx="220" cy="462" r="9" fill="#c8b070"/>
+  <circle cx="572" cy="462" r="9" fill="#c8b070"/>
+  <circle cx="286" cy="466" r="9" fill="#c8b070"/>
+  <circle cx="506" cy="466" r="9" fill="#c8b070"/>
+  <!-- Side gusset hint -->
+  <path d="M166 210 L154 222 L154 456 L166 468" stroke="#8f5221" stroke-width="2.5" fill="none"/>
+  <path d="M626 210 L638 222 L638 456 L626 468" stroke="#8f5221" stroke-width="2.5" fill="none"/>
+</svg>

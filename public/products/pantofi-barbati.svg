@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#efe7dc"/>
+  <ellipse cx="400" cy="465" rx="222" ry="13" fill="#2d2925" opacity="0.10"/>
+  <!-- Sole -->
+  <path d="M176 428 Q179 448 234 453 Q400 458 568 453 Q622 448 626 434 L626 424 Q578 440 400 440 Q220 440 176 428Z" fill="#1a1612"/>
+  <!-- Heel block -->
+  <path d="M176 370 L176 430 L220 440 L224 370Z" fill="#1a1612"/>
+  <!-- Upper (main leather body) -->
+  <path d="M224 402 Q238 316 346 290 Q408 274 480 276 Q552 278 596 298 Q628 318 628 382 L628 428 Q578 440 224 440Z" fill="#a7642c"/>
+  <!-- Toe cap -->
+  <path d="M578 298 Q628 320 628 382 L628 428 L586 428 Q618 396 614 352 Q610 314 578 298Z" fill="#8f5221"/>
+  <!-- Brogue dots -->
+  <circle cx="584" cy="305" r="3" fill="#6b3510"/>
+  <circle cx="596" cy="311" r="3" fill="#6b3510"/>
+  <circle cx="607" cy="321" r="3" fill="#6b3510"/>
+  <circle cx="614" cy="335" r="3" fill="#6b3510"/>
+  <!-- Lace quarter -->
+  <path d="M296 298 Q338 284 406 280 L440 281 L440 308 Q382 310 330 321 Q296 330 292 346Z" fill="#8f5221"/>
+  <!-- Laces -->
+  <line x1="310" y1="306" x2="432" y2="292" stroke="#e0d0bc" stroke-width="4" stroke-linecap="round"/>
+  <line x1="304" y1="320" x2="434" y2="306" stroke="#e0d0bc" stroke-width="4" stroke-linecap="round"/>
+  <!-- Heel counter curve -->
+  <path d="M224 402 Q214 368 218 326 L244 320 Q238 364 244 402Z" fill="#8f5221"/>
+  <!-- Welt line -->
+  <path d="M220 440 Q400 446 628 428" stroke="#2d2925" stroke-width="2" fill="none"/>
+</svg>

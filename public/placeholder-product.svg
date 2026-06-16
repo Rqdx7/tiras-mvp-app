@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Produs Tiras">
+  <rect width="800" height="600" fill="#efe7dc"/>
+  <path d="M128 392c88-20 166-54 236-102 30-21 65-22 100-4l110 57c39 20 72 25 116 16 18-4 36 9 39 28 3 18-9 35-27 39-88 19-172 16-252-9l-121-38c-41-13-77-9-114 13-25 15-54 24-87 28-17 2-32-10-34-27-2-17 10-31 34-1Z" fill="#a7642c" opacity=".88"/>
+  <path d="M166 411h498c23 0 42 19 42 42v4H118v-4c0-23 19-42 48-42Z" fill="#2d2925"/>
+  <text x="400" y="165" fill="#2d2925" font-family="Georgia,serif" font-size="64" text-anchor="middle">Tiras</text>
+</svg>

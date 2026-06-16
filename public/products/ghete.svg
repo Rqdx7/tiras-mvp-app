@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#efe7dc"/>
+  <ellipse cx="395" cy="468" rx="218" ry="13" fill="#2d2925" opacity="0.10"/>
+  <!-- Sole -->
+  <path d="M174 434 Q178 452 232 457 Q396 462 560 457 Q614 452 620 438 L620 426 Q572 442 396 442 Q216 442 174 434Z" fill="#1a1612"/>
+  <!-- Heel block (chunkier for boots) -->
+  <path d="M174 374 L174 436 L218 442 L224 374Z" fill="#1a1612"/>
+  <!-- Boot shaft (the tall part) -->
+  <path d="M224 374 L224 198 Q228 186 250 182 L360 182 Q382 186 386 198 L386 270 Q370 276 356 270 L356 210 Q352 202 340 200 L264 200 Q252 202 250 212 L250 374Z" fill="#2d2925"/>
+  <!-- Shaft highlight -->
+  <path d="M250 212 L250 370 Q260 374 264 370 L264 210Z" fill="#3d3530"/>
+  <!-- Boot body (foot part) -->
+  <path d="M224 402 Q238 328 340 304 Q396 290 464 292 Q530 294 572 312 Q610 330 620 388 L620 432 Q572 442 224 442Z" fill="#2d2925"/>
+  <!-- Toe area -->
+  <path d="M566 312 Q610 332 620 388 L620 432 L580 432 Q608 400 604 358 Q600 322 566 312Z" fill="#3d3530"/>
+  <!-- Lace panel -->
+  <path d="M264 300 Q300 288 360 285 L360 390 Q300 390 264 400Z" fill="#3d3530"/>
+  <!-- Lace eyelets and laces -->
+  <circle cx="272" cy="298" r="4" fill="#a7642c"/>
+  <circle cx="272" cy="316" r="4" fill="#a7642c"/>
+  <circle cx="272" cy="334" r="4" fill="#a7642c"/>
+  <circle cx="272" cy="352" r="4" fill="#a7642c"/>
+  <circle cx="272" cy="370" r="4" fill="#a7642c"/>
+  <circle cx="352" cy="298" r="4" fill="#a7642c"/>
+  <circle cx="352" cy="316" r="4" fill="#a7642c"/>
+  <circle cx="352" cy="334" r="4" fill="#a7642c"/>
+  <circle cx="352" cy="352" r="4" fill="#a7642c"/>
+  <circle cx="352" cy="370" r="4" fill="#a7642c"/>
+  <!-- Lace crosses -->
+  <line x1="276" y1="298" x2="348" y2="316" stroke="#c9956a" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="276" y1="316" x2="348" y2="334" stroke="#c9956a" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="276" y1="334" x2="348" y2="352" stroke="#c9956a" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="276" y1="352" x2="348" y2="370" stroke="#c9956a" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Heel counter -->
+  <path d="M224 402 Q214 370 218 328 L242 322 Q236 366 242 402Z" fill="#3d3530"/>
+</svg>

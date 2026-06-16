@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#efe7dc"/>
+  <ellipse cx="420" cy="464" rx="210" ry="12" fill="#2d2925" opacity="0.10"/>
+  <!-- Stiletto heel -->
+  <path d="M186 438 L186 462 Q190 466 196 462 L198 438Z" fill="#1a1612"/>
+  <!-- Thin sole -->
+  <path d="M198 438 Q420 450 632 440 Q636 434 632 428 Q420 442 198 430Z" fill="#1a1612"/>
+  <!-- Arch underside (gap visible) -->
+  <path d="M198 432 Q290 412 370 432" fill="#efe7dc"/>
+  <!-- Upper body - pump shape -->
+  <path d="M198 432 Q200 354 264 326 Q318 304 400 296 Q490 288 572 312 Q632 334 634 398 L632 432 Q420 442 198 432Z" fill="#c9956a"/>
+  <!-- Pointed toe -->
+  <path d="M572 312 Q632 336 634 398 L632 432 L592 432 Q624 404 620 360 Q614 324 572 312Z" fill="#a87040"/>
+  <!-- Vamp highlight -->
+  <path d="M264 324 Q380 296 480 292 Q390 284 310 300 Q258 316 248 338Z" fill="#dba870" opacity="0.45"/>
+  <!-- Heel curve meets upper -->
+  <path d="M198 432 Q186 400 186 360 Q192 338 218 326 L232 328 Q208 348 204 382 Q202 410 210 434Z" fill="#a87040"/>
+  <!-- Ankle strap hint -->
+  <path d="M240 326 Q248 316 262 322" stroke="#8f5221" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Toe seam line -->
+  <path d="M584 316 Q626 340 626 398" stroke="#8a5e30" stroke-width="1.5" fill="none" stroke-dasharray="5,4"/>
+</svg>
